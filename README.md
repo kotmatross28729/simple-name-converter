@@ -1,6 +1,6 @@
 ## What?
 In Minecraft 1.13, some texture names have changed, so resource packs from 1.13+ do not work on older versions.
-Of course, you can manually rename the entire file, but ... is it worth it?
+Of course, you can manually rename all files, but ... is it worth it?
 Not anymore! This script automatically renames files, you just need to select 1 of the 2 available options:
 
 1) Converting new names to old ones.
