@@ -1,0 +1,2 @@
+assets\minecraft\textures\item
+assets\minecraft\textures\block
