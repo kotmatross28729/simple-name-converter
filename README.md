@@ -12,8 +12,7 @@ Same as 1 but in reverse
 
 ## How to use?
 
-1. Download the repository (Code -> Download ZIP)
-and unzip it to any folder (for example, create a new folder on your desktop)
+1. [Download ZIP archive](https://github.com/kotmatross28729/simple-name-converter/releases) and unzip it to any folder (for example, create a new folder on your desktop)
 
 2. Unzip your resource pack into the "texture converter" folder
 
